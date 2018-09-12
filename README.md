@@ -1,3 +1,2 @@
-# FRC
-fourier ring correlation and spin average. Python version of Matlab code written by Michael Wojcik (APS)
-
+# Fourier Ring Correlation
+Python version of Matlab code written by Michael Wojcik (APS). Currently works for grayscale 2D images.
